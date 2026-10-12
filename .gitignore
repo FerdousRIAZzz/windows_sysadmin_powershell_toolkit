@@ -1,0 +1,9 @@
+# Generated output
+reports/
+logs/
+*.log
+
+# OS / editor
+Thumbs.db
+.vscode/
+.idea/
