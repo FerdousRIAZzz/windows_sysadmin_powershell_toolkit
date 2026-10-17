@@ -1,0 +1,3 @@
+FirstName,LastName,Username,Department,OU
+Test,UserOne,tuser1,IT,"OU=Users,OU=Lab,DC=lab,DC=local"
+Test,UserTwo,tuser2,Finance,"OU=Users,OU=Lab,DC=lab,DC=local"
